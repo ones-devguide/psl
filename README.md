@@ -1,6 +1,6 @@
 # Библиотека проектных решений
 ## Документация
 
-[razdolie.github.io/dev-rules/psl](https://razdolie.github.io/dev-rules/psl)
+[ones-devguide.github.io/dev-rules/psl](https://ones-devguide.github.io/dev-rules/psl)
 
 ---
